@@ -6,7 +6,11 @@
 <p>Instale a biblioteca PyQt5 através do seguinte comando no terminal/cmd:</p>
 
     pip install PyQt5
-    
+
+<p>Ou instale pelo arquivo requirements.txt</p>
+
+    pip install -r requirements.txt
+
 <p>Baixe o arquivo com o código-fonte do jogo.</p>
 
 ___
